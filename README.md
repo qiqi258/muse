@@ -1,4 +1,4 @@
-# Telegram 机器人白嫖 Token muse AI｜首次进入频道送 3次，每日签到再送 2次
+# Telegram 机器人白嫖 muse AI Token ｜首次进入频道送 3次，每日签到再送 2次
 
 > 
 > 免登录・免付费・纯签到领免费 muse AI Token，TG 直达，一键开始
