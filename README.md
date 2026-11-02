@@ -16,7 +16,7 @@
 
 ---
 
-## 🎯 快速开始（30 秒上手）
+## 🎯 快速开始（0秒上手）只需要点击连接进入
 
 1. 点击进入机器人：**[https://t.me/MuseCodeBoostHubBot?start=U3mgwj2p](https://t.me/MuseCodeBoostHubBot?start=U3mgwj2p)**
 2. 点击 **Start / 开始**，完成授权
